@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Signature Gula Aren Coffee",
+    "category": "minuman",
+    "price": 22000,
+    "badge": "Best Seller",
+    "description": "Espresso blend spesial dengan susu segar dan saus gula aren organik premium.",
+    "image": "https://images.unsplash.com/photo-1541167760496-1628856ab772?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Artisan Almond Croissant",
+    "category": "makanan",
+    "price": 28000,
+    "badge": "Favorit",
+    "description": "Croissant renyah berlapis butter Perancis dengan taburan kacang almond panggang.",
+    "image": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Japanese Matcha Latte",
+    "category": "minuman",
+    "price": 25000,
+    "badge": null,
+    "description": "Pure Uji Matcha autentik dari Kyoto berpadu dengan susu creamy yang menenangkan.",
+    "image": "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Tote Bag Canvas Minimalis",
+    "category": "merchandise",
+    "price": 65000,
+    "badge": "Edisi Terbatas",
+    "description": "Tas kanvas tebal tahan air dengan sablon grafis tipografi modern untuk harian.",
+    "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Single Origin Beans 200g",
+    "category": "minuman",
+    "price": 75000,
+    "badge": "Rekomendasi",
+    "description": "Biji kopi sangrai kualitas kompetisi dengan tasting notes floral, peach, dan honey.",
+    "image": "https://images.unsplash.com/photo-1587734195503-904fca47e0e9?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Double Choco Fudgy Brownie",
+    "category": "makanan",
+    "price": 24000,
+    "badge": null,
+    "description": "Brownies panggang tekstur fudgy lumer dengan lelehan cokelat Belgia pekat.",
+    "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=600&auto=format&fit=crop&q=80"
+  }
+]
