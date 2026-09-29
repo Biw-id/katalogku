@@ -1,4 +1,4 @@
-# 🛍️ KatalogKu — Universal Interactive E-Catalog & WhatsApp Order Template
+# KatalogKu — Universal Interactive E-Catalog & WhatsApp Order Template
 
 A lightning-fast, high-converting digital product catalog template with realtime search, category filtering, persistent shopping cart (`localStorage`), and instant WhatsApp checkout. Built for local MSMEs (UMKM), cafes, boutiques, and creative brands.
 
@@ -8,17 +8,17 @@ A lightning-fast, high-converting digital product catalog template with realtime
 
 ---
 
-## ✨ Features
+## Features
 
-- **⚡ Data-Driven Architecture:** Products dynamically fetched from decoupled JSON data using modern `async/await` and `fetch()` API.
-- **🔍 Realtime Live Search & Category Filtering:** Instant multi-condition filtering (`.filter()`, `.includes()`) with responsive empty state handling.
-- **🛒 Persistent Shopping Cart (`localStorage`):** Slide-over cart drawer that remembers cart items even across page refreshes or device reboots.
-- **🔢 Interactive Quantity Controls:** Seamless increment (`+`), decrement (`-`), and removal (`🗑`) with live subtotal and grand total recalculations.
-- **💬 Instant WhatsApp Checkout:** Generates beautifully formatted order summaries directly into WhatsApp chat without requiring third-party payment gateway fees.
+- **Data-Driven Architecture:** Products dynamically fetched from decoupled JSON data using modern `async/await` and `fetch()` API.
+- **Realtime Live Search & Category Filtering:** Instant multi-condition filtering (`.filter()`, `.includes()`) with responsive empty state handling.
+- **Persistent Shopping Cart (`localStorage`):** Slide-over cart drawer that remembers cart items even across page refreshes or device reboots.
+- **Interactive Quantity Controls:** Seamless increment (`+`), decrement (`-`), and removal (`🗑`) with live subtotal and grand total recalculations.
+- **Instant WhatsApp Checkout:** Generates beautifully formatted order summaries directly into WhatsApp chat without requiring third-party payment gateway fees.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework & Build:** [Vite](https://vitejs.dev/)
 - **Styling:** [Tailwind CSS v4](https://tailwindcss.com/)
@@ -26,7 +26,7 @@ A lightning-fast, high-converting digital product catalog template with realtime
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Installation
 
@@ -53,7 +53,7 @@ A lightning-fast, high-converting digital product catalog template with realtime
 
 ---
 
-## 👤 Author
+## Author
 
 **Abiyyu Shiddiq As'ad (KaptenBiu)**
 - Portfolio: [abiyyu-portfolio.netlify.app](https://abiyyu-portfolio.netlify.app/)
